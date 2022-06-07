@@ -1,0 +1,16 @@
+.App{
+  border:solid 1px black;max-width:100vw;
+  
+}
+h1{
+text-align: center;
+}
+img {
+width: 50%;
+margin-left: 20%;
+}
+.videoo{
+  width:320px;
+   height:240px;
+margin-left: 35%;
+}
